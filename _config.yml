@@ -1,0 +1,25 @@
+markdown: kramdown
+exclude: ["CNAME"]
+
+defaults:
+  -
+    scope:
+      path      : "assets/img"
+    values:
+      image     : true
+  -
+    scope:
+      type: "pages"
+    values:
+      layout    :   default
+      title     :   Factful
+
+## How do I call these? Right now they're hard coded into the default template.
+
+organization :
+  name          : Factful
+  street_addr   : "555 12th Street"
+  city          : "Oakland, CA 94612"
+  email         : info@factful.io
+  github        : factful
+  twitter       : factfuldata
