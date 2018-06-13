@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 
 Factful builds tools that leverage the power of advanced computing to augment the vital work of reporters and investigators in their work to promote accountability and expose corruption.
