@@ -10,7 +10,7 @@ We are building a robust, global data platform that will transform public-intere
 +  **Veda Hlubinka-Cook** ed a team at Applied Minds to develop collaborative data analysis tools for the US SIGINT analysts from 2002 to 2005. That work led her to co-found Metaweb, which developed Freebase, a massive entity-relationship database, acquired by Google in 2010 as the basis for the Knowledge Graph, which has become a key system powering Google’s infrastructure. 
 
 
-+ **Ted Han** was the lead technologist behind DocumentCloud from YEAR to YEAR, a successful project and hosting service used widely for publication of newsworthy documents and for document analysis. Ted has been involved in open source software for 15 years, was lead developer at Investigative Reporters and Editors and taught at Missouri University School of Journalism.  
++ **Ted Han** was the lead technologist behind DocumentCloud from 2011 to 2018, a successful project and hosting service used widely for publication of newsworthy documents and for document analysis. Ted has been involved in open source software for 15 years, was lead developer at Investigative Reporters and Editors and taught at Missouri University School of Journalism.  
 
 
 + **Jordan Mendelson** was the programmer behind Common Crawl, an open data nonprofit that archives a free copy of the web for researchers. Jordan previously founded SeatMe, a restaurant reservation system acquired by Yelp, as well as SNOCAP, a music licensing system. He was Chief Architect at Napster.
