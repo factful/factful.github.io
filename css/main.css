@@ -66,99 +66,95 @@ body {
 
  /* Tiny Letter Form */
 
-            form {
-                font: 16px/20px'Helvetica', Arial, sans-serif;
-                display: block;
-                padding: 6px 0 10px 0;
-            }
-            label {
-                clear: both;
-                display: block;
-                margin: 8px 0;
-                font-weight: bold;
-                position: relative;
-                line-height: 150%;
-                font-family: Helvetica;
-                font-size: 14px;
-                color: #333333;
-            }
-            .email-group input {
-                display: block;
-                float: left;
-                width: 60%;
-                margin: 0 10px 0 0;
-                min-width: 200px;
-                padding: 12px 10px 11px 10px;
-                border: 1px solid #ccc;
-                border-radius: 4px;
-                font-size: 14px;
-                box-shadow: none;
-            }
-            .email-group .button {
-                width: 30%;
-                margin: 0;
-                min-width: 75px;
-            }
-            .error,
-            .errorText {
-                margin: 5px 0 0 0;
-                padding: 10px;
-                font-size: 14px;
-                color: #6b0505;
-                background-color: #f4bfbf;
-            }
-            .formstatus {
-                margin-bottom: 10px;
-            }
-            .success {
-                background: #e4f3d4;
-                font-size: 14px;
-                color: #5ca000;
-                margin: 10px 0;
-                padding: 10px;
-                font-family: 'Helvetica Neue', Helvetica, Arial, Sans-serif;
-            }
-            .success a {
-                color: #5ca000;
-                text-decoration: underline;
-            }
-            .rounded {
-                border-radius: 4px;
-                -moz-border-radius: 4px;
-                -webkit-border-radius: 4px;
-            }
-            .button,
-            .button-small {
-                display: inline-block;
-                white-space: nowrap;
-                height: 40px;
-                line-height: 42px;
-                margin: 0 5px 0 0;
-                padding: 0 22px;
-                text-decoration: none;
-                text-transform: uppercase;
-                text-align: center;
-                font-weight: bold;
-                font-style: normal;
-                font-size: 14px;
-                cursor: pointer;
-                border: 0;
-                -moz-border-radius: 4px;
-                border-radius: 4px;
-                -webkit-border-radius: 4px;
-                vertical-align: top;
-                -webkit-font-smoothing: antialiased;
-                font-smoothing: antialiased;
-            }
-            .button-small {
-                float: none;
-                display: inline-block;
-                height: auto;
-                line-height: 18px !important;
-                padding: 2px 15px !important;
-                font-size: 11px !important;
-            }
-            .button:hover,
-            .button-small:hover {
-                opacity: .8;
-            }
+form {
+    font: 16px/20px'Helvetica', Arial, sans-serif;
+    display: block;
+    padding: 6px 0 10px 0;
+}
+form a, form a.visited {
+  font-size: 10px;
+  letter-spacing: 0em;
+  text-decoration: none;
+  color: #4d874b; 
+}
+
+form label {
+    clear: both;
+    display: block;
+    margin: 8px 0;
+    font-weight: bold;
+    position: relative;
+    line-height: 150%;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: #333333;
+}
+
+.email-group input {
+    display: block;
+    float: left;
+    width: 60%;
+    margin: 0 10px 0 0;
+    min-width: 200px;
+    padding: 12px 10px 11px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    box-shadow: none;
+}
+.email-group .button {
+    width: 30%;
+    margin: 0;
+    min-width: 75px;
+}
+.error,
+.errorText {
+    margin: 5px 0 0 0;
+    padding: 10px;
+    font-size: 14px;
+    color: #6b0505;
+    background-color: #f4bfbf;
+}
+.formstatus {
+    margin-bottom: 10px;
+}
+.success {
+    background: #e4f3d4;
+    font-size: 14px;
+    color: #5ca000;
+    margin: 10px 0;
+    padding: 10px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, Sans-serif;
+}
+.success a {
+    color: #5ca000;
+    text-decoration: underline;
+}
+.rounded {
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+}
+.button,
+.button-small {
+    display: inline-block;
+    white-space: nowrap;
+    height: 40px;
+    line-height: 42px;
+    margin: 0 5px 0 0;
+    padding: 0 22px;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 14px;
+    cursor: pointer;
+    border: 0;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    vertical-align: top;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+}
