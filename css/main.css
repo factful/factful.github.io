@@ -23,6 +23,15 @@ main {
   line-height: 1.8em;
 }
 
+main h2 {
+ font-weight: bold;  
+}
+
+main p {
+ line-height: 1.2em;
+ padding-bottom: 1em;
+}
+
 footer {
    padding: 6em;
    color: rgba(255,255,255,.75);
