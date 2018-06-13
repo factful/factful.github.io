@@ -2,9 +2,13 @@
 published: false
 ---
 
-Factful builds tools that leverage the power of advanced computing to augment the vital work of reporters and investigators in their work to promote accountability and expose corruption.
 
-We are building a robust, global data platform that will transform public-interest journalism. In an age of massive data leaks, widespread access to public data, and ever-larger social network streams, critical stories are fragmented across disparate data stores and formats, inaccessible to the technology found in most newsrooms.
+Factful is building technology for journalists and researchers. Newsrooms and investigative teams do vital work, exposing corruption and holding power accountable. We believe that powerful data analysis tools can be a potent force multiplier to that essential work: so we’re developing software that makes powerful data analysis accessible to journalists and researchers. 
+
+We’re just getting started. We’d love to keep you in the loop. 
+
+<form id="subscribe-form" method="post" action="https://tinyletter.com/Factful"><div class="email-group"><input type="email" id="email" name="email" value="" placeholder=" email@example.com"><button class="button" type="submit"> Subscribe </button></div><div class="privacy-policy"><p> <a href="http://tinyletter.com/site/legal/privacy/">TinyLetter's Privacy Policy</a> </p> </div></form>
+
 
 ##  Who We Are
 **Veda Hlubinka-Cook** led a team at Applied Minds to develop collaborative data analysis tools for the US SIGINT analysts from 2002 to 2005. That work led her to co-found Metaweb, which developed Freebase, a massive entity-relationship database, acquired by Google in 2010 as the basis for the Knowledge Graph, which has become a key system powering Google’s infrastructure. 
