@@ -72,23 +72,15 @@ form {
     padding: 6px 0 10px 0;
 }
 form a, form a.visited {
-  font-size: 10px;
-  letter-spacing: 0em;
   text-decoration: none;
   color: #4d874b; 
 }
 
-form label {
-    clear: both;
-    display: block;
-    margin: 8px 0;
-    font-weight: bold;
-    position: relative;
-    line-height: 150%;
-    font-family: Helvetica;
-    font-size: 14px;
-    color: #333333;
+form p, form a, form a.visited {
+  font-size: 10px;
+  letter-spacing: 0em;
 }
+
 
 .email-group input {
     display: block;
@@ -102,11 +94,13 @@ form label {
     font-size: 14px;
     box-shadow: none;
 }
+
 .email-group .button {
     width: 30%;
     margin: 0;
     min-width: 75px;
 }
+
 .error,
 .errorText {
     margin: 5px 0 0 0;
@@ -115,6 +109,7 @@ form label {
     color: #6b0505;
     background-color: #f4bfbf;
 }
+
 .formstatus {
     margin-bottom: 10px;
 }
@@ -126,10 +121,12 @@ form label {
     padding: 10px;
     font-family: 'Helvetica Neue', Helvetica, Arial, Sans-serif;
 }
+
 .success a {
     color: #5ca000;
     text-decoration: underline;
 }
+
 .rounded {
     border-radius: 4px;
     -moz-border-radius: 4px;
