@@ -50,6 +50,7 @@ footer {
    font-size: 18px;
    letter-spacing: 1.02px;
    line-height: 1.8em;
+   background-color: #363636;
 }
 
 footer h1 {
@@ -67,9 +68,9 @@ footer a {
 }
 
 body {
-   background-color: #363636;
    color: #222;
    line-height: 1.8em;
+   background-color: #fff
 }
 
 
