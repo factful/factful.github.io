@@ -25,17 +25,21 @@ main {
 }
 
 main h2 {
- font-weight: bold;  
-}
-
-main p {
- line-height: 1.2em;
- padding-bottom: 1.2em;
+  font-family: "sofia-pro",sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 34px;
+  padding: 12px 0;
 }
 
 main strong {
    font-weight: bold;
 }
+main p {
+ line-height: 1.2em;
+ padding-bottom: 1.2em;
+}
+
 
 footer {
    padding: 6em;
