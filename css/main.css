@@ -32,6 +32,10 @@ main p {
  padding-bottom: 1.2em;
 }
 
+main strong {
+   font-weight: bold;
+}
+
 footer {
    padding: 6em;
    color: rgba(255,255,255,.75);
