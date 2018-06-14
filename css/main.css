@@ -82,7 +82,7 @@ form p, form a, form a.visited {
 }
 
 
-.email-group input {
+form  .email-group input {
     display: block;
     float: left;
     width: 60%;
@@ -95,14 +95,13 @@ form p, form a, form a.visited {
     box-shadow: none;
 }
 
-.email-group .button {
+form .email-group .button {
     width: 30%;
     margin: 0;
     min-width: 75px;
 }
 
-.error,
-.errorText {
+form .error, form .errorText {
     margin: 5px 0 0 0;
     padding: 10px;
     font-size: 14px;
@@ -110,10 +109,11 @@ form p, form a, form a.visited {
     background-color: #f4bfbf;
 }
 
-.formstatus {
+form .formstatus {
     margin-bottom: 10px;
 }
-.success {
+
+form .success {
     background: #e4f3d4;
     font-size: 14px;
     color: #5ca000;
@@ -122,18 +122,17 @@ form p, form a, form a.visited {
     font-family: 'Helvetica Neue', Helvetica, Arial, Sans-serif;
 }
 
-.success a {
+form .success a {
     color: #5ca000;
     text-decoration: underline;
 }
 
-.rounded {
+form .rounded {
     border-radius: 4px;
     -moz-border-radius: 4px;
     -webkit-border-radius: 4px;
 }
-.button,
-.button-small {
+form .button, form .button-small {
     display: inline-block;
     white-space: nowrap;
     height: 40px;
