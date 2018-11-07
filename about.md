@@ -16,7 +16,8 @@ We’re just getting started. **We’d love to keep you in the loop.**
 
 **Ted Han** was the lead technologist behind DocumentCloud from 2011 to 2018, a successful project and hosting service used widely for publication of newsworthy documents and for document analysis. Ted has been involved in open source software for 15 years, was lead developer at Investigative Reporters and Editors and taught at Missouri University School of Journalism.  
 
-
 **Jordan Mendelson** was the programmer behind Common Crawl, an open data nonprofit that archives a free copy of the web for researchers. Jordan previously founded SeatMe, a restaurant reservation system acquired by Yelp, as well as SNOCAP, a music licensing system. He was Chief Architect at Napster.
 
 **Amanda Hickman** led BuzzFeed’s Open Lab for Journalism, Technology, and the Arts from its founding in 2015 until the lab wrapped up in 2017. She has taught reporting, data analysis and visualization, and audience engagement at graduate journalism programs at UC Berkeley, Columbia University, and the City University of New York, and was DocumentCloud’s founding program director. Amanda has a long history of collaborating with both journalists, editors, and community organizers to design and create the tools they need to be more effective. 
+
+**Karen Alexander** is a writer, writing coach, and editor who has reported on technology and business for *The Los Angeles Times*, covered the Federal regulatory agencies for *Legal Times*, and has written for the *The New York Times*. She learned her trade as an investigative reporter working for Bob Woodward. 
